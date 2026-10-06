@@ -1,5 +1,7 @@
 # Reflection – AI Number Program Lab
 
+***PROFESSOR, MY COMMITS ARENT SHOWING UP ON GITHUB :(***
+
 ##  Student Name:
 Maria Moskvichova
 
